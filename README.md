@@ -1,5 +1,16 @@
 # Jogo de adivinhação
 
+## Início do jogo
+
+### Escolha de nome de usuário
+
+O jogo iá iniciar perguntando o nome do usuário:
+
+![escolha_nome_1](https://github.com/xpcosmos/simulador-de-dados/blob/main/assets/escolha-nome-1.png)
+
+Caso o jogar digite um caracté que não seja alfa numérico, será gerado um erro:
+
+![escolha_nome_2](https://github.com/xpcosmos/simulador-de-dados/blob/main/assets/escolha-nome-2.png)
 
 # Licença
 MIT License
