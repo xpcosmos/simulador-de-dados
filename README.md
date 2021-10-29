@@ -1,4 +1,4 @@
-# simulador-de-dados
+# Jogo de adivinhação
 
 
 MIT License
