@@ -1,6 +1,6 @@
 # Jogo de adivinhação
 
-A proposta desse projeto é realizar um jogo de adivinhação simples utilizando pythonO usuário deve digitar um número de 1 até 6, o computador irá aleatóriamente gerar um número e se o número digitador pelo usuário for o mesmo que o do computador, ele ganha, senão ele perde.
+A proposta desse projeto é realizar um jogo de adivinhação simples utilizando python. O usuário deve digitar um número de 1 até 6, o computador irá aleatóriamente gerar um número e se o número digitador pelo usuário for o mesmo que o do computador, ele ganha, senão ele perde.
 O jogo deve ser infinito, sendo apenas encerrado caso o usuário determinar.
 
 # Proposta
