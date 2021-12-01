@@ -85,7 +85,7 @@ Foi pensado também em métodos de tratamento de erros. Presumi que poderia ocas
 
 # Autor
 
-<a href="//https://www.linkedin.com/in/mikeias-o-5a4b2a184/"><img src="https://github.com/xpcosmos/simulador-de-dados/blob/main/assets/linkedin.png" alt="linkedin" width="20"></a> <a href="mailto:mikeias.d.s.o@gmail.com"><img src="https://github.com/xpcosmos/simulador-de-dados/blob/main/assets/gmail.png" alt="gmail" width="20">
+<a href="https://www.linkedin.com/in/mikeias-o-5a4b2a184/"><img src="https://github.com/xpcosmos/simulador-de-dados/blob/main/assets/linkedin.png" alt="linkedin" width="20"></a> <a href="mailto:mikeias.d.s.o@gmail.com"><img src="https://github.com/xpcosmos/simulador-de-dados/blob/main/assets/gmail.png" alt="gmail" width="20">
 
 # Licença
 
